@@ -1,4 +1,5 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author - Hemant Kumar
+Author -ayush kumar
+hemant kumar
